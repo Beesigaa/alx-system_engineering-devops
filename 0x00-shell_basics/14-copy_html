@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync *.html /alx-system_engineering-devops
