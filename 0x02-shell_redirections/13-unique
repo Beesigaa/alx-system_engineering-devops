@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "word1 word2 word3 word4" | tr ' ' '\n' | sort | uniq -u
+sort | uniq -u

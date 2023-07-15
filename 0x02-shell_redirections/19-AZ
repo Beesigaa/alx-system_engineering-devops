@@ -1,4 +1,2 @@
 #!/bin/bash
-read -p "Enter a string: " input > $(echo "$input" | tr -d 'cC')
-
-
+tr 'Ac' 'Ze'
