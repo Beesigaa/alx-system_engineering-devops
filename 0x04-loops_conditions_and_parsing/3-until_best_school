@@ -2,6 +2,6 @@
 # looping using until to display "Best School" 10x
 i=0
 until [ $i -ge 10 ]; do
-  echo "Best School"
+  echo Best School 
   ((i++))
 done
