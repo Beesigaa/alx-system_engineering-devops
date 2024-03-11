@@ -1,5 +1,5 @@
 #!/bin/env bash
-# looping using until to display "Best School" 10x
+# looping to display "Best School" 10x
 i=0
 until [ $i -eq 10 ]; do
   echo Best School 
