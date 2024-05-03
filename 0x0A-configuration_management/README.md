@@ -1,5 +1,3 @@
-# Project: 0x0A. Configuration management
-
 <h2>Learning Objectives</h2>
 
 <h3>General</h3>
